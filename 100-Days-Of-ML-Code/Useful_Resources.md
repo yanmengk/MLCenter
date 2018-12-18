@@ -16,3 +16,7 @@ Saishruthi Swaminathan的[文章](https://towardsdatascience.com/logistic-regres
 
 
 
+### 4. Deep Learning with Python, TensorFlow, and Keras tutorial
+
+[YouTube视频](https://www.youtube.com/watch?v=wQ8BIBpya2k&t=19s&index=2&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
+
